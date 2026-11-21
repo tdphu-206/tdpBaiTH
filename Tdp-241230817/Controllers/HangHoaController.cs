@@ -11,7 +11,7 @@ public class HangHoaController : Controller
 
     public HangHoaController(QLHangHoaContext db) => _db = db;
 
-    // Câu 5.1 - GET: hiển thị form
+   
     [HttpGet]
     public async Task<IActionResult> Create()
     {
@@ -19,18 +19,16 @@ public class HangHoaController : Controller
         return View(new HangHoa());
     }
 
-    // Câu 5.1 - POST: lưu hàng hóa
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Create(HangHoa hangHoa)
     {
-        // Form không gửi thuộc tính điều hướng -> bỏ qua để không bị lỗi "required"
         ModelState.Remove(nameof(HangHoa.MaLoaiNavigation));
 
         if (!ModelState.IsValid)
         {
             await NapLoaiHang(hangHoa.MaLoai);
-            return View(hangHoa);            // hiển thị lỗi validate ngay trên form
+            return View(hangHoa);            
         }
 
         _db.HangHoas.Add(hangHoa);

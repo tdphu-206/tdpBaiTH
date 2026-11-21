@@ -20,45 +20,45 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = Tdp_241230817
 build_property.RootNamespace = Tdp_241230817
-build_property.ProjectDir = D:\LTW\DeMau2023\Tdp-241230817\
+build_property.ProjectDir = D:\LTW1\DeMau2023\Tdp-241230817\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\LTW\DeMau2023\Tdp-241230817
+build_property.MSBuildProjectDirectory = D:\LTW1\DeMau2023\Tdp-241230817
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/HangHoa/Create.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/HangHoa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/Home/Index.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Footer.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZHBfRm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Header.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZHBfSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Layout.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZHBfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_MainContent.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/Shared/_Tdp_MainContent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZHBfTWFpbkNvbnRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/_ViewImports.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTW/DeMau2023/Tdp-241230817/Views/_ViewStart.cshtml]
+[D:/LTW1/DeMau2023/Tdp-241230817/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

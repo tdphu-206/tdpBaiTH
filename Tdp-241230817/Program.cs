@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews(options =>
 {
-    // Việt hóa thông báo lỗi khi nhập chữ vào ô số (Câu 5.2: "Giá phải là số")
+   
     var p = options.ModelBindingMessageProvider;
     p.SetValueMustBeANumberAccessor(field => $"{field} phải là số.");
     p.SetAttemptedValueIsInvalidAccessor((value, field) => $"{field} phải là số (giá trị '{value}' không hợp lệ).");

@@ -10,7 +10,7 @@ public class HomeController : Controller
 
     public HomeController(QLHangHoaContext db) => _db = db;
 
-    // Câu 3: hàng hóa có Gia >= 100 (Gia NULL tự bị loại), tiêu đề = họ tên SV
+    
     public async Task<IActionResult> Index()
     {
         var ds = await _db.HangHoas
@@ -22,7 +22,7 @@ public class HomeController : Controller
         return View(ds);
     }
 
-    // Câu 4: lọc theo loại hàng bằng AJAX
+  
     public async Task<IActionResult> TheoLoai(int id)
     {
         var loai = await _db.LoaiHangs.FindAsync(id);
@@ -35,11 +35,10 @@ public class HomeController : Controller
 
         ViewData["TieuDe"] = loai.TenLoai;
 
-        // Request AJAX (jQuery) -> chỉ trả về phần main content, không tải lại cả trang
+      
         if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
             return PartialView("_Tdp_MainContent", ds);
 
-        // Truy cập trực tiếp bằng URL (hoặc từ trang Create) -> trả cả trang
         return View("Index", ds);
     }
 

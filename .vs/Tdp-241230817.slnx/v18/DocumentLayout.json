@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LTW\\DeMau2023\\",
+  "WorkspaceRootPath": "D:\\LTW1\\DeMau2023\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|d:\\ltw\\demau2023\\tdp-241230817\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|d:\\ltw1\\demau2023\\tdp-241230817\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|solutionrelative:tdp-241230817\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|d:\\ltw1\\demau2023\\tdp-241230817\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|solutionrelative:tdp-241230817\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|d:\\ltw\\demau2023\\tdp-241230817\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|d:\\ltw1\\demau2023\\tdp-241230817\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E48EF332-013B-AA75-2872-5727BF8CA84E}|Tdp-241230817\\Tdp-241230817.csproj|solutionrelative:tdp-241230817\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -31,28 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Tdp-241230817\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Tdp-241230817\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T08:23:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LTW\\DeMau2023\\Tdp-241230817\\Program.cs",
+              "DocumentMoniker": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Program.cs",
               "RelativeDocumentMoniker": "Tdp-241230817\\Program.cs",
-              "ToolTip": "D:\\LTW\\DeMau2023\\Tdp-241230817\\Program.cs",
+              "ToolTip": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Program.cs",
               "RelativeToolTip": "Tdp-241230817\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-21T03:29:54.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\LTW\\DeMau2023\\Tdp-241230817\\appsettings.json",
+              "DocumentMoniker": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\appsettings.json",
               "RelativeDocumentMoniker": "Tdp-241230817\\appsettings.json",
-              "ToolTip": "D:\\LTW\\DeMau2023\\Tdp-241230817\\appsettings.json",
+              "ToolTip": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\appsettings.json",
               "RelativeToolTip": "Tdp-241230817\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-21T03:29:47.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-21T03:29:47.758Z"
             }
           ]
         }

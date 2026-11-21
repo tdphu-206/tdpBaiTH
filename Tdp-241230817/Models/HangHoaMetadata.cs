@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Tdp_241230817.Models;
 
-// Gắn metadata vào lớp HangHoa (partial) -> không bị mất khi scaffold lại Model
+
 [ModelMetadataType(typeof(HangHoaMetadata))]
 public partial class HangHoa { }
 

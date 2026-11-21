@@ -3155,11 +3155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTW\\DeMau2023\\Tdp-241230817\\Tdp-241230817.csproj",
+      "projectUniqueName": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Tdp-241230817.csproj",
       "projectName": "Tdp-241230817",
-      "projectPath": "D:\\LTW\\DeMau2023\\Tdp-241230817\\Tdp-241230817.csproj",
+      "projectPath": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\Tdp-241230817.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\LTW\\DeMau2023\\Tdp-241230817\\obj\\",
+      "outputPath": "D:\\LTW1\\DeMau2023\\Tdp-241230817\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
