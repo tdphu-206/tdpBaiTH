@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>@ViewData["Title"] - Home Shoppe</title>
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+<body>
+    <!-- Begin Wrap -->
+    <div class="wrap">
+        <partial name="_Tdp_Header" />
+
+        <!-- Begin Main -->
+        <div class="main">
+            <div class="content" id="main-content">
+                @RenderBody()
+            </div>
+        </div>
+        <!-- End Main -->
+    </div>
+    <!-- End Wrap -->
+
+    <partial name="_Tdp_Footer" />
+
+    <script src="~/js/jquery-1.7.2.min.js"></script>
+    <script src="~/js/hanghoa.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
